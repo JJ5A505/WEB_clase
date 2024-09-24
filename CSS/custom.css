@@ -1,0 +1,142 @@
+.btn-aviso { 
+  color: #000000; 
+  background-color: #BDA21B; 
+  font-family: "Protest Guerrilla", sans-serif;
+  border-color: #080808; 
+  border-radius: 10px;
+} 
+ 
+.btn-aviso:hover, 
+.btn-aviso:focus, 
+.btn-aviso:active, 
+.btn-aviso.active, 
+.open .dropdown-toggle.btn-aviso { 
+  color: #000000; 
+  font-family: "Nerko One", cursive;
+  background-color: #CC9B60; 
+  border-color: #080808; 
+  border-radius: 10px;
+} 
+ 
+.btn-aviso:active, 
+.btn-aviso.active, 
+.open .dropdown-toggle.btn-aviso { 
+  background-image: none; 
+} 
+ 
+.btn-aviso.disabled, 
+.btn-aviso[disabled], 
+fieldset[disabled] .btn-aviso, 
+.btn-aviso.disabled:hover, 
+.btn-aviso[disabled]:hover, 
+fieldset[disabled] .btn-aviso:hover, 
+.btn-aviso.disabled:focus, 
+.btn-aviso[disabled]:focus, 
+fieldset[disabled] .btn-aviso:focus, 
+.btn-aviso.disabled:active, 
+.btn-aviso[disabled]:active, 
+fieldset[disabled] .btn-aviso:active, 
+.btn-aviso.disabled.active, 
+.btn-aviso[disabled].active, 
+fieldset[disabled] .btn-aviso.active { 
+  background-color: #BDA21B; 
+  border-color: #080808; 
+} 
+ 
+.btn-aviso .badge { 
+  color: #BDA21B; 
+  background-color: #000000; 
+}
+
+.btn-mensaje { 
+  color: #000000; 
+  background-color: #79F27D; 
+  border-color: #000000; 
+} 
+ 
+.btn-mensaje:hover, 
+.btn-mensaje:focus, 
+.btn-mensaje:active, 
+.btn-mensaje.active, 
+.open .dropdown-toggle.btn-mensaje { 
+  color: #000000; 
+  background-color: #7FCC60; 
+  border-color: #000000; 
+} 
+ 
+.btn-mensaje:active, 
+.btn-mensaje.active, 
+.open .dropdown-toggle.btn-mensaje { 
+  background-image: none; 
+} 
+ 
+.btn-mensaje.disabled, 
+.btn-mensaje[disabled], 
+fieldset[disabled] .btn-mensaje, 
+.btn-mensaje.disabled:hover, 
+.btn-mensaje[disabled]:hover, 
+fieldset[disabled] .btn-mensaje:hover, 
+.btn-mensaje.disabled:focus, 
+.btn-mensaje[disabled]:focus, 
+fieldset[disabled] .btn-mensaje:focus, 
+.btn-mensaje.disabled:active, 
+.btn-mensaje[disabled]:active, 
+fieldset[disabled] .btn-mensaje:active, 
+.btn-mensaje.disabled.active, 
+.btn-mensaje[disabled].active, 
+fieldset[disabled] .btn-mensaje.active { 
+  background-color: #79F27D; 
+  border-color: #000000; 
+} 
+ 
+.btn-mensaje .badge { 
+  color: #79F27D; 
+  background-color: #000000; 
+}
+
+.btn-mensaje { 
+  color: #000000; 
+  background-color: #52A6FF; 
+  border-color: #000000; 
+} 
+ 
+.btn-mensaje:hover, 
+.btn-mensaje:focus, 
+.btn-mensaje:active, 
+.btn-mensaje.active, 
+.open .dropdown-toggle.btn-mensaje { 
+  color: #000000; 
+  background-color: #60CCCA; 
+  border-color: #000000; 
+} 
+ 
+.btn-mensaje:active, 
+.btn-mensaje.active, 
+.open .dropdown-toggle.btn-mensaje { 
+  background-image: none; 
+} 
+ 
+.btn-mensaje.disabled, 
+.btn-mensaje[disabled], 
+fieldset[disabled] .btn-mensaje, 
+.btn-mensaje.disabled:hover, 
+.btn-mensaje[disabled]:hover, 
+fieldset[disabled] .btn-mensaje:hover, 
+.btn-mensaje.disabled:focus, 
+.btn-mensaje[disabled]:focus, 
+fieldset[disabled] .btn-mensaje:focus, 
+.btn-mensaje.disabled:active, 
+.btn-mensaje[disabled]:active, 
+fieldset[disabled] .btn-mensaje:active, 
+.btn-mensaje.disabled.active, 
+.btn-mensaje[disabled].active, 
+fieldset[disabled] .btn-mensaje.active { 
+  background-color: #52A6FF; 
+  border-color: #000000; 
+} 
+ 
+.btn-mensaje .badge { 
+  color: #52A6FF; 
+  background-color: #000000; 
+}
+
