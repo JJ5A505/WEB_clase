@@ -14,6 +14,8 @@
 $edad=34;
 $edad="hola mundo";
 print $edad;
+//hola mundo
+
 ?>
 
 </body>
